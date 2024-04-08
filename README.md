@@ -1,2 +1,2 @@
-# Gamma-Net-alpha-
+# γ-Net-alpha-
 A modified U-Net architecture trained for simultaneous classification and segmentation
